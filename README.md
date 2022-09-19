@@ -33,7 +33,7 @@ IN PROGRESS
 
 HISTORY
 -------
-I have a 1990 GMC with a 5V 160 baud ALDL diagnostics port.   After receive a "service engine" light I set out the path of building a USB cable and using WinALDL (https://winaldl.joby.se/) to diagnose what was goin on. (Code 32, EGR, had to replace a solenoid).   After exploring the data in WinALDL I realized RPM and speed was reported by the ECM.  I have a bunch of Arduino and ESP32s around and several 1602 and OLED displays....   I figured I must be able to connect a ucontroller to that data pin and extract that data on a display in near real-time.
+I have a 1990 GMC with a 5V 160 baud ALDL diagnostics port.   After receiving a "service engine" light I set out the path of building a USB cable and using WinALDL (https://winaldl.joby.se/) to diagnose what was going on. (Code 32, EGR, had to replace a solenoid).   After exploring the data in WinALDL I realized RPM and speed was reported by the ECM and I thought that would be useful display.  I have a bunch of Arduinos and ESP32s kicking around and several 1602 and OLED displays....   I figured I must be able to connect a ucontroller to the data pin and extract that data on a display in near real-time.
 
 ACKNOWLEDGEMENTS
 ----------------
