@@ -6,6 +6,8 @@ A resource I found useful for exploring more about ALDL: https://www.techedge.co
 HARDWARE
 --------
 
+![alt text](aldl-circuit.png)
+
 Arduino NANO, NPN transaitor, 10k resistor
 
  - Digital pin 2 connected to collector of transistor (configured with internal pullup resistor)
