@@ -1,7 +1,7 @@
 # aldl160-arduino
-Arduino work on reading ALDL 160baud data
+Arduino work on reading ALDL 160 baud data
+A resource I found useful for exploring more about ALDL: https://www.techedge.com.au/vehicle/aldl160/aldl_sw.htm
 
-For info on ALDL see: https://www.techedge.com.au/vehicle/aldl160/aldl_sw.htm
 
 HARDWARE
 --------
@@ -26,7 +26,7 @@ SOFTWARE
  
 DECODING ECM MESSAGES
 ---------------------
-
+IN PROGRESS
 
 
 HISTORY
@@ -42,5 +42,5 @@ I studied lots of source code repos and websites for inspiration:
 - https://github.com/MikeEckels/OBD1Scanner/tree/master/OBD1Scanner
 - https://github.com/MikeEckels/OBD1Scanner/blob/master/OBD1Scanner/DataStreamDefs.h
 - https://github.com/shimniok/ALDL160_logger
-
+- https://winaldl.joby.se/aldlcable.htm
 
