@@ -7,6 +7,7 @@ HARDWARE
 --------
 
 ![alt text](aldl-circuit.png)
+![alt_text](Arduino-aldl-prototype.jpg)
 
 Arduino NANO, NPN transaitor, 10k resistor
 
